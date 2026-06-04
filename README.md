@@ -102,8 +102,8 @@ Skor akhir berada pada rentang:
 Clone repository:
 
 ```bash
-git clone https://github.com/faniatantya-gif/Wallee.git
-cd Wallee
+git clone https://github.com/Wallee-CC26-PSU167/Wallee-DataScience.git
+cd Wallee-DataScience-main
 ```
 
 Install dependencies:
